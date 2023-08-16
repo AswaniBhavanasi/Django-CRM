@@ -7,14 +7,14 @@ An example of Django project with basic user functionality.
 ### Clone the project
 
 ```bash
-git clone https://github.com/AswaniBhavanasi/Django-CRM.git
-cd Django-CRM
+git clone https://github.com/AswaniBhavanasi/crmproject.git
+cd crmproject
 ```
 
 ### Install dependencies & activate virtualenv
 
 ```bash
-source python3.8/bin/activate
+source python3.11/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -27,8 +27,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'crmdb',
-        'USER':'root',
-        'PASSWORD':'admin2k'
+        'USER':'ashu',
+        'PASSWORD':'Admin2k'
     }
 }
 ```

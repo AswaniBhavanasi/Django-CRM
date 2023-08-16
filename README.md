@@ -7,8 +7,8 @@ An example of Django project with basic user functionality.
 ### Clone the project
 
 ```bash
-git clone https://github.com/AswaniBhavanasi/crmproject.git
-cd crmproject
+git clone https://github.com/AswaniBhavanasi/Django-CRM.git
+cd Django-CRM
 ```
 
 ### Install dependencies & activate virtualenv

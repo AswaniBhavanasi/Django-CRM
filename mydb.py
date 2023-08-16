@@ -8,8 +8,8 @@ import mysql.connector
 
 dataBase = mysql.connector.connect(
 	host = 'localhost',
-	user = 'root',
-	passwd = 'admin2k'
+	user = 'ashu',
+	passwd = 'Admin2k'
 
 	)
 
